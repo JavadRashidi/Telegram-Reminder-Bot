@@ -2,6 +2,9 @@
 
 A Telegram bot built using the Pyrogram library that helps users set and manage reminders, manage administrative tasks, and interact with various bot functionalities.
 
+![Alt text for the image](https://img.freepik.com/premium-vector/robots-typographic-header-artificial-intelligence-technologies-school-subject-students-learning-robot-components-construction-engineering-programming-flat-vector-illustration_277904-15140.jpg)
+
+
 ## Features
 
 ### User Features
